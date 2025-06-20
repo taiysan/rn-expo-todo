@@ -1,6 +1,11 @@
 # React Native Todo-app
 
 Special repository for code style preview
+```
+yarn install
+npx expo start
+```
+![preview](https://github.com/user-attachments/assets/febc2980-e797-4f4d-8ea1-c0b490ec52d7)
 
 ## Technology stack
 
